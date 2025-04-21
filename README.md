@@ -23,4 +23,4 @@ This is a **To-Do List** project that allows users to add, mark as completed, de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lordhidalgo/to-do-list/edit/master
+   git clone https://github.com/lordhidalgo/to-do-list/tree/master
